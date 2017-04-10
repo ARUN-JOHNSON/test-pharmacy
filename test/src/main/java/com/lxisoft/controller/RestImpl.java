@@ -9,7 +9,7 @@ public class RestImpl {
 	@RequestMapping("/")
 	public String sayHello()
 	{
-		return "HERE I AM";
+		return "HERE I AM HAHAHAHA";
 		
 	}
 
